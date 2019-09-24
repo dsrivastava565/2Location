@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/teamp-erp/Desktop/HERE/HERE-sdk/tutorial/SimpleRoutingSolution/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sv/values-sv.xml",
+            "map": [
+                {
+                    "source": "/home/teamp-erp/.gradle/caches/transforms-2/files-2.1/c5a232b7b0106d8e8142ce23d08e9061/res/values-sv/values-sv.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

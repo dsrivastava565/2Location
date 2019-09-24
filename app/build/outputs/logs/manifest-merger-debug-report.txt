@@ -1,0 +1,175 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/teamp-erp/Desktop/HERE/HERE-sdk/tutorial/SimpleRoutingSolution/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/teamp-erp/Desktop/HERE/HERE-sdk/tutorial/SimpleRoutingSolution/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/teamp-erp/Desktop/HERE/HERE-sdk/tutorial/SimpleRoutingSolution/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/teamp-erp/Desktop/HERE/HERE-sdk/tutorial/SimpleRoutingSolution/app/src/main/AndroidManifest.xml:2:1-30:12
+MERGED from [:HERE-sdk:] /home/teamp-erp/.gradle/caches/transforms-2/files-2.1/6011e101f69845cab4443e3b15a1be1e/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:28.0.0] /home/teamp-erp/.gradle/caches/transforms-2/files-2.1/b0a64d1dc13a041f885a635a41f89650/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/teamp-erp/.gradle/caches/transforms-2/files-2.1/c1ee5463459cfbd06c3dbe3a55feada8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/teamp-erp/.gradle/caches/transforms-2/files-2.1/c32a98208c772af55c0b28bd6c0e29a3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/teamp-erp/.gradle/caches/transforms-2/files-2.1/b31fe800ce97bc26142beefd744ee9d6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/teamp-erp/.gradle/caches/transforms-2/files-2.1/bf3906b6dfc1bcec9c7f0a51feb9b764/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/teamp-erp/.gradle/caches/transforms-2/files-2.1/3e4f4d67e9a184c33ef1f8223611e2ce/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/teamp-erp/.gradle/caches/transforms-2/files-2.1/bf7bc1802692a83f40f28446c195d0dc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/teamp-erp/.gradle/caches/transforms-2/files-2.1/48aa121104bb5e780071fcad7e0df987/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/teamp-erp/.gradle/caches/transforms-2/files-2.1/5c6206651d8a76cfb473fdfee5411e37/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/teamp-erp/.gradle/caches/transforms-2/files-2.1/f9ed5f6379e90583d773a39b5236d567/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/teamp-erp/.gradle/caches/transforms-2/files-2.1/12366c7c437ddf05b62245811ce70e79/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/teamp-erp/.gradle/caches/transforms-2/files-2.1/a2b0cc57c62a86cd33bba0bef0045d6f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/teamp-erp/.gradle/caches/transforms-2/files-2.1/a9259d484417684cf1aa583d6ec9d9b4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/teamp-erp/.gradle/caches/transforms-2/files-2.1/c5a232b7b0106d8e8142ce23d08e9061/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/teamp-erp/.gradle/caches/transforms-2/files-2.1/71928dba85486387f28f3ccc692448f0/AndroidManifest.xml:17:1-25:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/teamp-erp/.gradle/caches/transforms-2/files-2.1/7a8463c524f11b798b4aa6679aef8633/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/teamp-erp/.gradle/caches/transforms-2/files-2.1/7f409892df2a6c7674af878101512fca/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/teamp-erp/.gradle/caches/transforms-2/files-2.1/ef101159108503491f552a925cf1bb82/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/teamp-erp/.gradle/caches/transforms-2/files-2.1/f69ef75b1a80db7312f2c5052f210251/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/teamp-erp/.gradle/caches/transforms-2/files-2.1/d1e110ab4ecb33b3584ddf5c24bbe3a7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/teamp-erp/.gradle/caches/transforms-2/files-2.1/d0b4c13d8028a11bda8c9b5c5fbf8cbd/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/teamp-erp/.gradle/caches/transforms-2/files-2.1/d14d19d654ceda338dc4664296136930/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/teamp-erp/.gradle/caches/transforms-2/files-2.1/e315304b75a3f2b8d7e792ece11d4df0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/teamp-erp/.gradle/caches/transforms-2/files-2.1/0cb75f3c1a834c3f3a0319ca78e51d94/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/teamp-erp/.gradle/caches/transforms-2/files-2.1/7812f094142955111f8de259053e356e/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/teamp-erp/Desktop/HERE/HERE-sdk/tutorial/SimpleRoutingSolution/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/teamp-erp/Desktop/HERE/HERE-sdk/tutorial/SimpleRoutingSolution/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/teamp-erp/Desktop/HERE/HERE-sdk/tutorial/SimpleRoutingSolution/app/src/main/AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from /home/teamp-erp/Desktop/HERE/HERE-sdk/tutorial/SimpleRoutingSolution/app/src/main/AndroidManifest.xml:3:5-35
+		INJECTED from /home/teamp-erp/Desktop/HERE/HERE-sdk/tutorial/SimpleRoutingSolution/app/src/main/AndroidManifest.xml
+		INJECTED from /home/teamp-erp/Desktop/HERE/HERE-sdk/tutorial/SimpleRoutingSolution/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/teamp-erp/Desktop/HERE/HERE-sdk/tutorial/SimpleRoutingSolution/app/src/main/AndroidManifest.xml
+		ADDED from /home/teamp-erp/Desktop/HERE/HERE-sdk/tutorial/SimpleRoutingSolution/app/src/main/AndroidManifest.xml:2:1-30:12
+		INJECTED from /home/teamp-erp/Desktop/HERE/HERE-sdk/tutorial/SimpleRoutingSolution/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/teamp-erp/Desktop/HERE/HERE-sdk/tutorial/SimpleRoutingSolution/app/src/main/AndroidManifest.xml
+		ADDED from /home/teamp-erp/Desktop/HERE/HERE-sdk/tutorial/SimpleRoutingSolution/app/src/main/AndroidManifest.xml:2:1-30:12
+		INJECTED from /home/teamp-erp/Desktop/HERE/HERE-sdk/tutorial/SimpleRoutingSolution/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/teamp-erp/Desktop/HERE/HERE-sdk/tutorial/SimpleRoutingSolution/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/teamp-erp/Desktop/HERE/HERE-sdk/tutorial/SimpleRoutingSolution/app/src/main/AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from /home/teamp-erp/Desktop/HERE/HERE-sdk/tutorial/SimpleRoutingSolution/app/src/main/AndroidManifest.xml:5:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/teamp-erp/Desktop/HERE/HERE-sdk/tutorial/SimpleRoutingSolution/app/src/main/AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from /home/teamp-erp/Desktop/HERE/HERE-sdk/tutorial/SimpleRoutingSolution/app/src/main/AndroidManifest.xml:6:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/teamp-erp/Desktop/HERE/HERE-sdk/tutorial/SimpleRoutingSolution/app/src/main/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from /home/teamp-erp/Desktop/HERE/HERE-sdk/tutorial/SimpleRoutingSolution/app/src/main/AndroidManifest.xml:7:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /home/teamp-erp/Desktop/HERE/HERE-sdk/tutorial/SimpleRoutingSolution/app/src/main/AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from /home/teamp-erp/Desktop/HERE/HERE-sdk/tutorial/SimpleRoutingSolution/app/src/main/AndroidManifest.xml:8:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /home/teamp-erp/Desktop/HERE/HERE-sdk/tutorial/SimpleRoutingSolution/app/src/main/AndroidManifest.xml:9:5-76
+	android:name
+		ADDED from /home/teamp-erp/Desktop/HERE/HERE-sdk/tutorial/SimpleRoutingSolution/app/src/main/AndroidManifest.xml:9:22-73
+application
+ADDED from /home/teamp-erp/Desktop/HERE/HERE-sdk/tutorial/SimpleRoutingSolution/app/src/main/AndroidManifest.xml:11:5-28:19
+MERGED from [com.android.support:support-compat:28.0.0] /home/teamp-erp/.gradle/caches/transforms-2/files-2.1/c5a232b7b0106d8e8142ce23d08e9061/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/teamp-erp/.gradle/caches/transforms-2/files-2.1/c5a232b7b0106d8e8142ce23d08e9061/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/teamp-erp/.gradle/caches/transforms-2/files-2.1/71928dba85486387f28f3ccc692448f0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/teamp-erp/.gradle/caches/transforms-2/files-2.1/71928dba85486387f28f3ccc692448f0/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/teamp-erp/.gradle/caches/transforms-2/files-2.1/c5a232b7b0106d8e8142ce23d08e9061/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /home/teamp-erp/Desktop/HERE/HERE-sdk/tutorial/SimpleRoutingSolution/app/src/main/AndroidManifest.xml:13:9-41
+	android:icon
+		ADDED from /home/teamp-erp/Desktop/HERE/HERE-sdk/tutorial/SimpleRoutingSolution/app/src/main/AndroidManifest.xml:12:9-43
+activity#com.mapstutorial.mapsroute.RoutingActivity
+ADDED from /home/teamp-erp/Desktop/HERE/HERE-sdk/tutorial/SimpleRoutingSolution/app/src/main/AndroidManifest.xml:14:9-22:20
+	android:label
+		ADDED from /home/teamp-erp/Desktop/HERE/HERE-sdk/tutorial/SimpleRoutingSolution/app/src/main/AndroidManifest.xml:16:13-45
+	android:name
+		ADDED from /home/teamp-erp/Desktop/HERE/HERE-sdk/tutorial/SimpleRoutingSolution/app/src/main/AndroidManifest.xml:15:13-70
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/teamp-erp/Desktop/HERE/HERE-sdk/tutorial/SimpleRoutingSolution/app/src/main/AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from /home/teamp-erp/Desktop/HERE/HERE-sdk/tutorial/SimpleRoutingSolution/app/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /home/teamp-erp/Desktop/HERE/HERE-sdk/tutorial/SimpleRoutingSolution/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/teamp-erp/Desktop/HERE/HERE-sdk/tutorial/SimpleRoutingSolution/app/src/main/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from /home/teamp-erp/Desktop/HERE/HERE-sdk/tutorial/SimpleRoutingSolution/app/src/main/AndroidManifest.xml:20:27-74
+meta-data#com.here.android.maps.appid
+ADDED from /home/teamp-erp/Desktop/HERE/HERE-sdk/tutorial/SimpleRoutingSolution/app/src/main/AndroidManifest.xml:24:9-25:95
+	android:value
+		ADDED from /home/teamp-erp/Desktop/HERE/HERE-sdk/tutorial/SimpleRoutingSolution/app/src/main/AndroidManifest.xml:25:56-92
+	android:name
+		ADDED from /home/teamp-erp/Desktop/HERE/HERE-sdk/tutorial/SimpleRoutingSolution/app/src/main/AndroidManifest.xml:25:13-55
+meta-data#com.here.android.maps.apptoken
+ADDED from /home/teamp-erp/Desktop/HERE/HERE-sdk/tutorial/SimpleRoutingSolution/app/src/main/AndroidManifest.xml:26:9-27:100
+	android:value
+		ADDED from /home/teamp-erp/Desktop/HERE/HERE-sdk/tutorial/SimpleRoutingSolution/app/src/main/AndroidManifest.xml:27:59-97
+	android:name
+		ADDED from /home/teamp-erp/Desktop/HERE/HERE-sdk/tutorial/SimpleRoutingSolution/app/src/main/AndroidManifest.xml:27:13-58
+uses-sdk
+INJECTED from /home/teamp-erp/Desktop/HERE/HERE-sdk/tutorial/SimpleRoutingSolution/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/teamp-erp/Desktop/HERE/HERE-sdk/tutorial/SimpleRoutingSolution/app/src/main/AndroidManifest.xml
+INJECTED from /home/teamp-erp/Desktop/HERE/HERE-sdk/tutorial/SimpleRoutingSolution/app/src/main/AndroidManifest.xml
+MERGED from [:HERE-sdk:] /home/teamp-erp/.gradle/caches/transforms-2/files-2.1/6011e101f69845cab4443e3b15a1be1e/AndroidManifest.xml:7:5-9:41
+MERGED from [:HERE-sdk:] /home/teamp-erp/.gradle/caches/transforms-2/files-2.1/6011e101f69845cab4443e3b15a1be1e/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:28.0.0] /home/teamp-erp/.gradle/caches/transforms-2/files-2.1/b0a64d1dc13a041f885a635a41f89650/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /home/teamp-erp/.gradle/caches/transforms-2/files-2.1/b0a64d1dc13a041f885a635a41f89650/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/teamp-erp/.gradle/caches/transforms-2/files-2.1/c1ee5463459cfbd06c3dbe3a55feada8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/teamp-erp/.gradle/caches/transforms-2/files-2.1/c1ee5463459cfbd06c3dbe3a55feada8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/teamp-erp/.gradle/caches/transforms-2/files-2.1/c32a98208c772af55c0b28bd6c0e29a3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/teamp-erp/.gradle/caches/transforms-2/files-2.1/c32a98208c772af55c0b28bd6c0e29a3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/teamp-erp/.gradle/caches/transforms-2/files-2.1/b31fe800ce97bc26142beefd744ee9d6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/teamp-erp/.gradle/caches/transforms-2/files-2.1/b31fe800ce97bc26142beefd744ee9d6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/teamp-erp/.gradle/caches/transforms-2/files-2.1/bf3906b6dfc1bcec9c7f0a51feb9b764/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/teamp-erp/.gradle/caches/transforms-2/files-2.1/bf3906b6dfc1bcec9c7f0a51feb9b764/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/teamp-erp/.gradle/caches/transforms-2/files-2.1/3e4f4d67e9a184c33ef1f8223611e2ce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/teamp-erp/.gradle/caches/transforms-2/files-2.1/3e4f4d67e9a184c33ef1f8223611e2ce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/teamp-erp/.gradle/caches/transforms-2/files-2.1/bf7bc1802692a83f40f28446c195d0dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/teamp-erp/.gradle/caches/transforms-2/files-2.1/bf7bc1802692a83f40f28446c195d0dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/teamp-erp/.gradle/caches/transforms-2/files-2.1/48aa121104bb5e780071fcad7e0df987/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/teamp-erp/.gradle/caches/transforms-2/files-2.1/48aa121104bb5e780071fcad7e0df987/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/teamp-erp/.gradle/caches/transforms-2/files-2.1/5c6206651d8a76cfb473fdfee5411e37/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/teamp-erp/.gradle/caches/transforms-2/files-2.1/5c6206651d8a76cfb473fdfee5411e37/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/teamp-erp/.gradle/caches/transforms-2/files-2.1/f9ed5f6379e90583d773a39b5236d567/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/teamp-erp/.gradle/caches/transforms-2/files-2.1/f9ed5f6379e90583d773a39b5236d567/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/teamp-erp/.gradle/caches/transforms-2/files-2.1/12366c7c437ddf05b62245811ce70e79/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/teamp-erp/.gradle/caches/transforms-2/files-2.1/12366c7c437ddf05b62245811ce70e79/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/teamp-erp/.gradle/caches/transforms-2/files-2.1/a2b0cc57c62a86cd33bba0bef0045d6f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/teamp-erp/.gradle/caches/transforms-2/files-2.1/a2b0cc57c62a86cd33bba0bef0045d6f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/teamp-erp/.gradle/caches/transforms-2/files-2.1/a9259d484417684cf1aa583d6ec9d9b4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/teamp-erp/.gradle/caches/transforms-2/files-2.1/a9259d484417684cf1aa583d6ec9d9b4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/teamp-erp/.gradle/caches/transforms-2/files-2.1/c5a232b7b0106d8e8142ce23d08e9061/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/teamp-erp/.gradle/caches/transforms-2/files-2.1/c5a232b7b0106d8e8142ce23d08e9061/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/teamp-erp/.gradle/caches/transforms-2/files-2.1/71928dba85486387f28f3ccc692448f0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/teamp-erp/.gradle/caches/transforms-2/files-2.1/71928dba85486387f28f3ccc692448f0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/teamp-erp/.gradle/caches/transforms-2/files-2.1/7a8463c524f11b798b4aa6679aef8633/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/teamp-erp/.gradle/caches/transforms-2/files-2.1/7a8463c524f11b798b4aa6679aef8633/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/teamp-erp/.gradle/caches/transforms-2/files-2.1/7f409892df2a6c7674af878101512fca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/teamp-erp/.gradle/caches/transforms-2/files-2.1/7f409892df2a6c7674af878101512fca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/teamp-erp/.gradle/caches/transforms-2/files-2.1/ef101159108503491f552a925cf1bb82/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/teamp-erp/.gradle/caches/transforms-2/files-2.1/ef101159108503491f552a925cf1bb82/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/teamp-erp/.gradle/caches/transforms-2/files-2.1/f69ef75b1a80db7312f2c5052f210251/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/teamp-erp/.gradle/caches/transforms-2/files-2.1/f69ef75b1a80db7312f2c5052f210251/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/teamp-erp/.gradle/caches/transforms-2/files-2.1/d1e110ab4ecb33b3584ddf5c24bbe3a7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/teamp-erp/.gradle/caches/transforms-2/files-2.1/d1e110ab4ecb33b3584ddf5c24bbe3a7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/teamp-erp/.gradle/caches/transforms-2/files-2.1/d0b4c13d8028a11bda8c9b5c5fbf8cbd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/teamp-erp/.gradle/caches/transforms-2/files-2.1/d0b4c13d8028a11bda8c9b5c5fbf8cbd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/teamp-erp/.gradle/caches/transforms-2/files-2.1/d14d19d654ceda338dc4664296136930/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/teamp-erp/.gradle/caches/transforms-2/files-2.1/d14d19d654ceda338dc4664296136930/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/teamp-erp/.gradle/caches/transforms-2/files-2.1/e315304b75a3f2b8d7e792ece11d4df0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/teamp-erp/.gradle/caches/transforms-2/files-2.1/e315304b75a3f2b8d7e792ece11d4df0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/teamp-erp/.gradle/caches/transforms-2/files-2.1/0cb75f3c1a834c3f3a0319ca78e51d94/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/teamp-erp/.gradle/caches/transforms-2/files-2.1/0cb75f3c1a834c3f3a0319ca78e51d94/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/teamp-erp/.gradle/caches/transforms-2/files-2.1/7812f094142955111f8de259053e356e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/teamp-erp/.gradle/caches/transforms-2/files-2.1/7812f094142955111f8de259053e356e/AndroidManifest.xml:20:5-44
+INJECTED from /home/teamp-erp/Desktop/HERE/HERE-sdk/tutorial/SimpleRoutingSolution/app/src/main/AndroidManifest.xml
+INJECTED from /home/teamp-erp/Desktop/HERE/HERE-sdk/tutorial/SimpleRoutingSolution/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/teamp-erp/Desktop/HERE/HERE-sdk/tutorial/SimpleRoutingSolution/app/src/main/AndroidManifest.xml
+		ADDED from /home/teamp-erp/Desktop/HERE/HERE-sdk/tutorial/SimpleRoutingSolution/app/src/main/AndroidManifest.xml
+		INJECTED from /home/teamp-erp/Desktop/HERE/HERE-sdk/tutorial/SimpleRoutingSolution/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/teamp-erp/Desktop/HERE/HERE-sdk/tutorial/SimpleRoutingSolution/app/src/main/AndroidManifest.xml
+		ADDED from /home/teamp-erp/Desktop/HERE/HERE-sdk/tutorial/SimpleRoutingSolution/app/src/main/AndroidManifest.xml
+		INJECTED from /home/teamp-erp/Desktop/HERE/HERE-sdk/tutorial/SimpleRoutingSolution/app/src/main/AndroidManifest.xml
