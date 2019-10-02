@@ -39,7 +39,7 @@ import com.here.android.mpa.routing.RouteResult;
 
 public class RoutingActivity extends FragmentActivity {
     private static final String LOG_TAG = RoutingActivity.class.getSimpleName();
-
+    int check=10;
     // permissions request code
     private final static int REQUEST_CODE_ASK_PERMISSIONS = 1;
 
